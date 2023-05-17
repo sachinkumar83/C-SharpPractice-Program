@@ -1,8 +1,0 @@
-D:\C#T Codes\QuickSolutions\EmpAllDetails\bin\Debug\EmpAllDetails.exe.config
-D:\C#T Codes\QuickSolutions\EmpAllDetails\bin\Debug\EmpAllDetails.exe
-D:\C#T Codes\QuickSolutions\EmpAllDetails\bin\Debug\EmpAllDetails.pdb
-D:\C#T Codes\QuickSolutions\EmpAllDetails\obj\Debug\EmpAllDetails.csproj.AssemblyReference.cache
-D:\C#T Codes\QuickSolutions\EmpAllDetails\obj\Debug\EmpAllDetails.csproj.SuggestedBindingRedirects.cache
-D:\C#T Codes\QuickSolutions\EmpAllDetails\obj\Debug\EmpAllDetails.csproj.CoreCompileInputs.cache
-D:\C#T Codes\QuickSolutions\EmpAllDetails\obj\Debug\EmpAllDetails.exe
-D:\C#T Codes\QuickSolutions\EmpAllDetails\obj\Debug\EmpAllDetails.pdb
